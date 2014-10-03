@@ -1,0 +1,14 @@
+.reveal pre code {
+	max-height: 100%;
+    height: 100%;
+}
+.reveal pre {
+	max-height: 100%;
+    height: 100%;
+}
+
+.reveal .slides>section.present,
+.reveal .slides>section>section.present {
+    height: 50%;
+
+}
